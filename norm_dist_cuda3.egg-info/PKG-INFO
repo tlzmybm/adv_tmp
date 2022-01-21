@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: norm-dist-cuda3
+Version: 2.1.0
+Summary: A CUDA library for the calculation of general L_p-distance networks, supporting automatic differentiation.
+Home-page: https://github.com/zbh2047/L_inf-dist-net-v2
+Author: Bohang Zhang
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
